@@ -76,8 +76,8 @@ Une fois le projet compilé, en étant dans le dossier `Code`, vous pouvez lance
 ![gif4](gifs/endgame.gif)
 
 ## Contact
-- DARVILLE Killian (killian.darville@etudiant.univ-reims.fr)
-- SINET Théo (theo.sinet@etudiant.univ-reims.fr)
+- DARVILLE Killian : [LinkedIn](https://www.linkedin.com/in/killian-darville/) | killian.darville@etudiant.univ-reims.fr
+- SINET Théo : [LinkedIn](https://www.linkedin.com/in/théo-sinet/) | theo.sinet@etudiant.univ-reims.fr
 
 
 ## Licence
