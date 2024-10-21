@@ -7,6 +7,11 @@ Rocket Space Invaders est un projet réalisé dans le cadre de notre 3e année d
 ![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)
 
 
+## Détails exhaustifs des fonctionnalités et explications techniques
+Le rapport couvre de manière détaillée l'ensemble des aspects du projet. Vous y trouverez une description approfondie de l'éditeur, incluant son interface, les outils disponibles, ainsi que la gestion des structures et des fichiers binaires. Les sections dédiées au client et au serveur expliquent leur fonctionnement respectif, en passant par leur lancement, les interfaces, les règles du jeu, ainsi que les structures et fonctions associées. Les mécanismes de communication entre le client et le serveur sont également abordés, avec des explications sur la création et la gestion des parties, et une analyse des protocoles de communication utilisés (UDP, TCP).
+
+Chaque étape, de la création des cartes (map) à l'organisation des échanges réseau, est rigoureusement expliquée afin de fournir une vision complète du projet. Pour une analyse plus approfondie et une vue d'ensemble des fonctionnalités techniques, vous pouvez consulter le rapport dans son intégralité ici : [Rapport](Rapport_DRV_SNT.pdf).
+
 
 ## Prérequis
 - Être sous [Linux](https://www.linux.org) ou sur [WSL](https://learn.microsoft.com/fr-fr/windows/wsl/install)
@@ -53,10 +58,6 @@ Une fois le projet compilé, en étant dans le dossier `Code`, vous pouvez lance
     ```bash
     ./bin/client 127.0.0.1 12345
     ```
-
-## Outils disponibles et règle du jeu
-La liste des outils présents dans l'éditeur, ainsi que la règle du jeu et l'explication complète du projet, sont disponibles dans le rapport : [Rapport](Rapport_DRV_SNT.pdf)
-
 
 ## Éditeur
 ![gif1](gifs/editeur.gif)
