@@ -6,6 +6,8 @@ Rocket Space Invaders est un projet réalisé dans le cadre de notre 3e année d
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)
 
+
+
 ## Prérequis
 - Être sous [Linux](https://www.linux.org) ou sur [WSL](https://learn.microsoft.com/fr-fr/windows/wsl/install)
 
@@ -61,12 +63,15 @@ La liste des outils présents dans l'éditeur, ainsi que la règle du jeu et l'e
 
 ## Jeu
 **Mourir :**
+
 ![gif2](gifs/game1.gif)
 
 **Utilisation des bombes :**
+
 ![gif3](gifs/game2.gif)
 
 **Winner :**
+
 ![gif4](gifs/endgame.gif)
 
 ## Contact
