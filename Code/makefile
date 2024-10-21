@@ -4,7 +4,7 @@
 
 EXEC = serveur client editeur
 OBJECTS = functions.o
-PROJECT_NAME = Projet_Darville_Sinet
+PROJECT_NAME = Projet_DRV_SNT
 
 OBJECTS_DIR = obj
 INCLUDE_DIR = includes
